@@ -10,4 +10,4 @@ function drawTree(a){
 }
 
 var a = prompt("Wysokość choinki");
-console.log(drawTree(a));
+drawTree(a);
